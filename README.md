@@ -22,7 +22,7 @@ It is built using **HTML, CSS, and JavaScript** and focuses on DOM manipulation 
 ## 📂 Project Structure
 ## ▶️ Live Demo
 👉## ▶️ Live Demo
-👉 https://your-username.github.io/your-repository-name/
+👉 https://yashaswinitula.github.io/SCT_WD_2/
 
 
 
