@@ -20,3 +20,19 @@ It is built using **HTML, CSS, and JavaScript** and focuses on DOM manipulation 
 - JavaScript
 
 ## 📂 Project Structure
+## ▶️ Live Demo
+👉## ▶️ Live Demo
+👉 https://your-username.github.io/your-repository-name/
+
+
+
+## 📸 Output Screenshot
+<img width="1880" height="915" alt="Screenshot 2025-12-23 135025" src="https://github.com/user-attachments/assets/017ea453-4e6c-4921-a13f-f8846e65bc32" />
+
+
+## ✅ Features
+- User-friendly interface
+- Responsive design
+- Keyboard and button input support
+- Error-free calculations
+
